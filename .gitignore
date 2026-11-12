@@ -1,0 +1,6 @@
+# Streamlit secrets (contains login credentials)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
